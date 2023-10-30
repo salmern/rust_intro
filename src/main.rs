@@ -37,7 +37,7 @@ fn main() {
    struct Person {
      name: String, 
      age: i32, 
-   }; 
+   }
  
    impl Person {
    
